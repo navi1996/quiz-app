@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project3</string>
+    <string name="ques1">Q1. Who created JAVA?</string>
+    <string name="ques1_radio1">James Gosling</string>
+    <string name="ques1_radio2">Bjarne Stroustrup</string>
+    <string name="ques1_radio3">Steve Jobs</string>
+
+    <string name="ques2">Q2. Is C an Oject Oriented Programming language? </string>
+    <string name="ques2_radio1">True</string>
+    <string name="ques2_radio2">False</string>
+
+    <string name="ques3">Q3. Which of the following are Object Oriented Programming languages? </string>
+    <string name="checkbox1_ques3">C++</string>
+    <string name="checkbox2_ques3">JAVA</string>
+    <string name="checkbox3_ques3">C</string>
+    <string name="checkbox4_ques3">Python</string>
+
+    <string name="ques4">Q4. Write down the full form of CSS. </string>
+
+    <string name="ques5">Q5. Which is the latest android version? </string>
+    <string name="ques5_radio1">Gingerbread</string>
+    <string name="ques5_radio2">Kitkat</string>
+    <string name="ques5_radio3">Nougat</string>
+
+
+</resources>
